@@ -1,0 +1,1 @@
+{'tags': ['person', 'indoor', 'clothing', 'smiling', 'red', 'holding', 'shirt', 'young', 'woman', 'posing', 'camera', 'standing', 'front', 'man', 'suit', 'boy', 'wearing', 'glasses', 'food', 'hand', 'table', 'door', 'room', 'white', 'remote', 'phone'], 'captions': [{'text': 'person in a red shirt and a tie', 'confidence': 0.11132773430988686}]}
